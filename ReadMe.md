@@ -2,7 +2,7 @@ Meine Arbeit mit der Sprache "C", die Datein wurden mit VIM erstellt und
 geschrieben.
 
 ###########################################
-Diese Repositorium enthält:
+- Enthält:
 ###########################################
 - Meine Erfahrungen, was ich lerne in Code.
 - Kleine Nebenprojekte.
