@@ -27,11 +27,16 @@ int main(void){
         }
     }
 
-    printf("Die Eingabe enthielt %d\n", anz);
+    int ins = zleerzeichen + zziffern + zGbuchstaben + zKbuchstaben + zrest;
+
+    printf("------------------------\n");
 
     printf("Leerzeichen         : %d\n", zleerzeichen);
     printf("Ziffern             : %d\n", zziffern);
     printf("Großbuchstaben      : %d\n", zGbuchstaben);
     printf("Kleinbuchstabne     : %d\n", zKbuchstaben);
-    printf("Sonstige Zeichen     : %d\n", zrest);
+    printf("Sonstige Zeichen    : %d\n", zrest);
+    printf("------------------------\n");
+    printf("Zeichen insgesamt   : %d\n", ins);
+    
 }

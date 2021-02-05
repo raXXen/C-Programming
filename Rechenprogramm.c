@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+int main(void)
 {
 	char wahl;
 	double wert1, wert2, ergebniss;
