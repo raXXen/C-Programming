@@ -1,10 +1,13 @@
 #include <stdio.h>
 
-int main(){
-    float a = 42;
-    int b = 1337;
-    char c = 'b';
-    printf("Hallo. %f\n", a);
-    
+int addTwoNumbers(int x, int y){
+    int erg = x + y;
+    printf("%d", erg);
+}    
+
+int main(void){
+
+    addTwoNumbers(8, 4);
 
 }
+

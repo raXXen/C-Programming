@@ -20,7 +20,7 @@ int main(){
     
 
     printf("Geben sie eine Zahl ein\n");
-    scanf("%d", &eingabeWert);
+    scanf("%d", &eingabeWert); //comment 
 
     int Wert = eingabeWert;
 
