@@ -6,10 +6,10 @@ int main(void){
 
     array[0][0][0] = 0;
     
-    printf("%x\n", array[0][0][0]);
-    printf("%x\n", array[0][0]);
-    printf("%x\n", array[0]);
-    printf("%x\n", array);
+    printf("%X\n", array[0][0][0]);
+    printf("%X\n", array[0][0]);
+    printf("%X\n", array[0]);
+    printf("%X\n", array);
 
 }
 
