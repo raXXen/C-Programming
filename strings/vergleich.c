@@ -21,6 +21,6 @@ int main(void){
     ergC = strcmp(b, c);
 
     /* Ausgabe der Ergebnisse der Vergleiche der Strings */
-    printf("Ergebniss A: %d\n Ergebniss B: %d\n Ergebniss C: %d\n", ergA, ergB, ergC);
+    printf(" Ergebniss A: %d\n Ergebniss B: %d\n Ergebniss C: %d\n", ergA, ergB, ergC);
 }
 
